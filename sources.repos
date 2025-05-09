@@ -1,0 +1,25 @@
+repositories:
+  com3_ros:
+    type: git
+    url: https://github.com/pwri-opera/com3_ros.git
+    version: 56519a18a8a0701c287dfd2b025a1789fb7f2aaf
+  gnss_localizer_ros2:
+    type: git
+    url: https://github.com/pwri-opera/gnss_localizer_ros2.git
+    version: 813cde98d48a8de8859b40de2d12eea91c09b0ed
+  ic120_ros2:
+    type: git
+    url: https://github.com/pwri-opera/ic120_ros2.git
+    version: e58663ec8b7121358a0fd76d0c8a80180e193eb6
+  ros_tcp_endpoint:
+    type: git
+    url: https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
+    version: ROS2v0.7.0
+  zx120_ros2:
+    type: git
+    url: https://github.com/pwri-opera/zx120_ros2.git
+    version: b46e636f885597254c67e08627a346b0dd00f20d
+  zx200_ros2:
+    type: git
+    url: https://github.com/pwri-opera/zx200_ros2.git
+    version: 07fe4497cfc0a02089d899e591bc819dbd8c587d
