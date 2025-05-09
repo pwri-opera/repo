@@ -1,0 +1,3 @@
+- git: {local-name: com3_ros, uri: 'https://github.com/pwri-opera/com3_ros.git', version: ros2_packaging}
+- git: {local-name: ros_tcp_endpoint, uri: 'https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git', version: main-ros2}
+- git: {local-name: zx120_ros2, uri: 'https://github.com/pwri-opera/zx120_ros2.git', version: main}
