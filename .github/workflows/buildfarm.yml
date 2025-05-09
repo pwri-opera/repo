@@ -13,4 +13,4 @@ jobs:
           ROS_DISTRO: humble
           DEB_DISTRO: jammy
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOS_FILE: zx200_ros2.rosinstall
+          REPOS_FILE: opera_ros2.rosinstall
