@@ -3,3 +3,4 @@
 - git: {local-name: gnss_localizer_ros2, uri: 'https://github.com/pwri-opera/gnss_localizer_ros2.git', version: main}
 - git: {local-name: zx200_ros2, uri: 'https://github.com/pwri-opera/zx200_ros2.git', version: main}
 - git: {local-name: zx120_ros2, uri: 'https://github.com/pwri-opera/zx120_ros2.git', version: main}
+- git: {local-name: ic120_ros2, uri: 'https://github.com/pwri-opera/ic120_ros2.git', version: main}
